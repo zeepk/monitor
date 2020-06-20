@@ -1,0 +1,28 @@
+.card {
+	background-color: #333842 !important;
+	color: #9da5b4 !important;
+}
+.grid-container {
+	padding: 10px;
+}
+.cpu-grid-item {
+	/* border: 1px solid red; */
+	height: 50px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.right {
+	text-align: right;
+}
+.progress {
+	border-radius: 5;
+	height: 10px !important;
+	margin-top: 10px;
+}
+
+h1,
+h2,
+h4 {
+	margin: 0;
+	vertical-align: middle;
+}

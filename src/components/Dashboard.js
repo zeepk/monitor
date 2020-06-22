@@ -17,7 +17,7 @@ const Dashboard = () => {
 					<Disk />
 				</Grid>
 				<Grid item className="grid-item" xs={12}>
-					{/* <Mem /> */}
+					<Mem />
 				</Grid>
 			</Grid>
 		</div>
